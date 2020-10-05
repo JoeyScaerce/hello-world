@@ -1,2 +1,5 @@
 # hello-world
-My first Repository
+
+Hello people
+
+Call me Ken. i've been in programming classes ever since middle school
