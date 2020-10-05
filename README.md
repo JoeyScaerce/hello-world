@@ -1,6 +1,6 @@
 # hello-world
 
-<h1>Hello people
+<h1>Hello people</h1>
 
 Call me Ken or Joey. i've been in programming classes ever since **middle school**
 
