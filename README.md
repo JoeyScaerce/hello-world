@@ -4,7 +4,7 @@
 Call me Ken or Joey. i've been in programming classes ever since **middle school**
 
 **fun fact**
-* fun fact 1
+* a fun fact 1
   * no i am not a fish 
 * fun fact 2
   * Yes i like spiders
